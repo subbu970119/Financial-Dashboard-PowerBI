@@ -14,7 +14,7 @@ Tables: `Sales`, `Expenses`, `Assets`, `Liabilities`, `CashFlow`, `Calendar` (da
 Power BI Desktop, DAX measures, Power Query, data modelling.
 
 ## Key Insights
-- _Add 3-4 findings from your dashboard here (e.g. which month had the highest profit)._
+3-4 real findings, for example “Highest profit month was X” or “Expenses are mostly Y”.
 
 ## Screenshots
 ![Executive](screenshots/executive.png)
